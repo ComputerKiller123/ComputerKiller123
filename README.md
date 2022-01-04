@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ComputerKiller123
+- 👀 I’m interested in coding and Minecraft
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: -on Discord: ComputerKiller#1431
