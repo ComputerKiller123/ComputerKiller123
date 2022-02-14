@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me: -on Discord: ComputerKiller#1431
+                       -on G-Mail: ComputerKill3r@gmail.com
