@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ComputerKiller123
 - 👀 I’m interested in these categories: coding and Minecraft
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me: -on Discord: ComputerKiller#1431
                        -on G-Mail: ComputerKill3r@gmail.com
